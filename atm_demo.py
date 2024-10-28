@@ -1,3 +1,8 @@
+'''
+Author:Jacob Thomas
+Date:28/10/2024
+Description: a program that simulates a simple bank ATM system
+'''
 balance_amount=100001
 while True:
     print("\n1. \tCheck Balance")
